@@ -33,16 +33,18 @@ Conversion notes:
 # install nuitka! https://github.com/Nuitka/Nuitka
 
 
-from lnkgonewild import lnkcompile
+from lnkgonewild import lnkcompile # import to compile
 
 # The command line that was created and executed to compile secretsubprocess.exe
-start "" "C:\ProgramData\anaconda3\envs\adda\python.exe" -m nuitka C:/ProgramData/anaconda3/envs/adda/lib/site-packages/lnkgonewild/secretsubprocess.py --standalone --assume-yes-for-downloads --windows-disable-console --onefile --windows-uac-admin --file-version=0.1 --clean-cache=all
+# output:
+# start "" "C:\ProgramData\anaconda3\envs\adda\python.exe" -m nuitka C:/ProgramData/anaconda3/envs/adda/lib/site-packages/lnkgonewild/secretsubprocess.py --standalone --assume-yes-for-downloads --windows-disable-console --onefile --windows-uac-admin --file-version=0.1 --clean-cache=all
 
 # When you see this messsage, please wait until the first compilation has finished. 
 Wait until the subprocess is done! Press enter to continue>? 
 
 # The command line that was created and executed to compile lnkgonewild.exe
-start "" "C:\ProgramData\anaconda3\envs\adda\python.exe" -m nuitka C:/ProgramData/anaconda3/envs/adda/lib/site-packages/lnkgonewild/lnkgonewild.py --standalone --assume-yes-for-downloads --onefile --include-data-files=C:/Users/hansc/AppData/Local/Temp/tmpaz6c5xsy=.//=**/*.* --windows-uac-admin --file-version=0.1 --onefile-tempdir-spec=%CACHE_DIR%/lnkgonewild/0.1 --clean-cache=all --jobs=4
+# output:
+# start "" "C:\ProgramData\anaconda3\envs\adda\python.exe" -m nuitka C:/ProgramData/anaconda3/envs/adda/lib/site-packages/lnkgonewild/lnkgonewild.py --standalone --assume-yes-for-downloads --onefile --include-data-files=C:/Users/hansc/AppData/Local/Temp/tmpaz6c5xsy=.//=**/*.* --windows-uac-admin --file-version=0.1 --onefile-tempdir-spec=%CACHE_DIR%/lnkgonewild/0.1 --clean-cache=all --jobs=4
 # https://github.com/hansalemaos/lnkgonewild/raw/main/1.png
 ```
 
