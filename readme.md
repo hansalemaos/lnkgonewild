@@ -1,6 +1,11 @@
 
 ## 1. Installing 
 
+This tool creates .lnk files either from python or your shell (cmd.exe) 
+It is possible to create .lnk files with "Run as Administrator" checked.
+
+You can also execute every executable file in hidden mode (no window, no icon in the taskbar), no bothersome popup when opening bat files.
+However, it is still possible to capture the stdout.
 
 ```python
 pip install lnkgonewild
