@@ -95,18 +95,16 @@ shortcut.IconLocation = "C:\\cygwin\\bin\\ls.exe";
 shortcut.Save();
 ```
 
-[https://github.com/hansalemaos/lnkgonewild/raw/main/1.png](https://github.com/hansalemaos/lnkgonewild/raw/main/2.png)
+[](https://github.com/hansalemaos/lnkgonewild/raw/main/2.png)
 
 
-[https://github.com/hansalemaos/lnkgonewild/raw/main/1.png](https://github.com/hansalemaos/lnkgonewild/raw/main/4.png)
+[](https://github.com/hansalemaos/lnkgonewild/raw/main/4.png)
 
 
 ## 4. Creating “special” shortcuts (hidden execution)
 
-[https://github.com/hansalemaos/lnkgonewild/raw/main/1.png](https://github.com/hansalemaos/lnkgonewild/raw/main/3.png)
 
-
-    ```python
+```python
 # If you pass minimized_maximized_normal_invisible="invisible"
 # the window/console will be hidden, but stdout can be captured
 # if secretsubprocess.exe is missing, the function will ask to compile it.
