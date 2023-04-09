@@ -1,5 +1,7 @@
 # Creates shortcuts/.lnk files (with admin rights if desired), can execute any file in hidden mode (no more bothersome popups when executing .bat/.cmd files)
 
+#### Tested against Windows 10 / Python 3.10 / Anaconda
+
 ## 1. Installing 
 
 This tool creates .lnk files either from python or your shell (cmd.exe) 
