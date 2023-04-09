@@ -48,7 +48,7 @@ Wait until the subprocess is done! Press enter to continue>?
 # https://github.com/hansalemaos/lnkgonewild/raw/main/1.png
 ```
 
-![](https://github.com/hansalemaos/lnkgonewild/blob/main/2.png?raw=true)
+![](https://github.com/hansalemaos/lnkgonewild/blob/main/1.png?raw=true)
 
 The compiled files can also be downloaded: https://github.com/hansalemaos/lnkgonewild/raw/main/lnkgonewild.exe
 The compiled files can also be downloaded: https://github.com/hansalemaos/lnkgonewild/raw/main/secretsubprocess.exe
