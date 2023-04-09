@@ -36,6 +36,8 @@ The compiled files can also be downloaded (Python is not needed):
 https://github.com/hansalemaos/lnkgonewild/raw/main/lnkgonewild.exe
 https://github.com/hansalemaos/lnkgonewild/raw/main/secretsubprocess.exe
 
+## Warnings
+
 #### Due to the app's suspicious behavior (changing bytes in .lnk files, executing other processes as subprocesses, hiding windows, capturing output, containing exe in exe files (secretsubprocess.exe is in lnkgonewild.exe, writing scripts to the HDD and executing them), you might have to add those files as exceptions to your antivirus.
 
 ![](https://github.com/hansalemaos/lnkgonewild/blob/main/5.png?raw=true)
