@@ -1,9 +1,9 @@
-# Creates .lnk files (with admin rights if desired), can execute any file in hidden mode (no more bothersome popups when executing .bat/.cmd files)
+# Creates shortcuts/.lnk files (with admin rights if desired), can execute any file in hidden mode (no more bothersome popups when executing .bat/.cmd files)
 
 ## 1. Installing 
 
 This tool creates .lnk files either from python or your shell (cmd.exe) 
-It is possible to create .lnk files with "Run as Administrator" checked.
+It is possible to create shortcuts with "Run as Administrator" checked.
 
 You can also execute every executable file in hidden mode (no window, no icon in the taskbar), no bothersome popup when opening bat files.
 However, it is still possible to capture the stdout.
