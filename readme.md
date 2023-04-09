@@ -48,10 +48,10 @@ Wait until the subprocess is done! Press enter to continue>?
 # https://github.com/hansalemaos/lnkgonewild/raw/main/1.png
 ```
 
-![](https://github.com/hansalemaos/lnkgonewild/blob/main/1.png?raw=true)
+![](https://github.com/hansalemaos/lnkgonewild/blob/main/2.png?raw=true)
 
 The compiled files can also be downloaded: https://github.com/hansalemaos/lnkgonewild/raw/main/lnkgonewild.exe
-The compiled files can also be downloaded: [https://github.com/hansalemaos/lnkgonewild/raw/main/secretsubprocess.exe](https://github.com/hansalemaos/lnkgonewild/raw/main/secretsubprocess.exe)
+The compiled files can also be downloaded: https://github.com/hansalemaos/lnkgonewild/raw/main/secretsubprocess.exe
 
 #### Due to the app's suspicious behavior (changing bytes in .lnk files, executing other processes as subprocesses, hiding windows, capturing output, containing exe in exe files (secretsubprocess.exe is in lnkgonewild.exe), you might have to add those files as exceptions to your antivirus.
 
