@@ -59,14 +59,18 @@ The compiled files can also be downloaded: https://github.com/hansalemaos/lnkgon
 
 ![](https://github.com/hansalemaos/lnkgonewild/blob/main/6.png?raw=true)
 
+
 ## 3. Creating “common” shortcuts 
 
-![](https://github.com/hansalemaos/lnkgonewild/blob/main/1.png?raw=true)
 
-    ```python
+![](https://github.com/hansalemaos/lnkgonewild/blob/main/2.png?raw=true)
+
+```python
 from lnkgonewild.lnkgonewild import create_shortcut
 
 # stdout can't be captured when minimized_maximized_normal_invisible!='invisible'
+
+
 create_shortcut(
     shortcut_path=r"C:\Users\hansc\Desktop\testlnk2.lnk",
     target=r"C:\cygwin\bin\ls.exe",
