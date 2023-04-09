@@ -1,3 +1,4 @@
+# Creates .lnk files (with admin rights if desired), can execute any file in hidden mode (no more bothersome popups when executing .bat/.cmd files)
 
 ## 1. Installing 
 
