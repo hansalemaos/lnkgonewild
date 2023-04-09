@@ -95,10 +95,10 @@ shortcut.IconLocation = "C:\\cygwin\\bin\\ls.exe";
 shortcut.Save();
 ```
 
-[](https://github.com/hansalemaos/lnkgonewild/raw/main/2.png)
+![](https://github.com/hansalemaos/lnkgonewild/blob/main/3.png?raw=true)
 
 
-[](https://github.com/hansalemaos/lnkgonewild/raw/main/4.png)
+![](https://github.com/hansalemaos/lnkgonewild/blob/main/4.png?raw=true)
 
 
 ## 4. Creating “special” shortcuts (hidden execution)
